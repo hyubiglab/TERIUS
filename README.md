@@ -8,7 +8,7 @@ TERIUS is a program designed to differentiate between long non-coding RNAs and t
 TERIUS is written using Python in Linux CentOS 6.0 environment. It requires Ribo-seq, UPF1 CLIP-seq and RNA-seq for high-throughput sequence data, and an annotation file of the transcripts in question in refFlat format.
 
 **Citing TERIUS**
-TERIUS is currently submitted for review. We will update this information once the paper in accepted for publication.
+Choi, SW., Nam, JW. TERIUS: accurate prediction of lncRNA via high-throughput sequencing data representing RNA-binding protein association. BMC Bioinformatics 19, 41 (2018). https://doi.org/10.1186/s12859-018-2013-9
 
 **Contact**
 Please contact Seo-Won Choi (seowonc@gmail.com) for inquiries regarding TERIUS
